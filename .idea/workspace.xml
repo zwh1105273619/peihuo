@@ -1,7 +1,177 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4863814a-3661-4723-bc7c-520a68fb4618" name="Default" comment="" />
+    <list default="true" id="4863814a-3661-4723-bc7c-520a68fb4618" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test_cases/suit/suitecase_add_data.py" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/report/add/report20180802150406.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/report/add/report20180802151328.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/report/add/report20180803160427.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/report/add/report20180803161115.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/report/add/report20180806154434.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/report/add/report20180806154548.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/report/add/report20180806160131.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/report/add/report20180807085314.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/report/add/report20180807085556.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/report/add/report20180807142337.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/report/add/report20180807143010.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/report/add/report20180807143041.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/report/add/report20180807152442.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/report/add/report20180807152527.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/report/add/report20180807155623.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/report/add/report20180807155945.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/report/add/report20180807162723.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/report/add/report20180808094838.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/report/add/report20180808102238.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/report/add/report20180808103323.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/report/add_apply_all/report20180806160508.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/report/add_apply_all/report20180806161519.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/report/add_apply_all/report20180807085801.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/report/add_apply_all/report20180807142534.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/report/add_apply_all/report20180807143248.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/report/add_apply_all/report20180807152739.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/report/add_apply_all/report20180807155829.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/report/add_apply_all/report20180807160152.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/report/add_apply_all/report20180807162931.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/report/add_apply_all/report20180808102451.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/report/add_apply_all/report20180808103529.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/report/apply_all_data/report20180806171724.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/report/apply_all_data/report20180806172117.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/report/apply_all_data/report20180807085839.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/report/apply_all_data/report20180807142605.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/report/apply_all_data/report20180807143320.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/report/apply_all_data/report20180807152819.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/report/apply_all_data/report20180807160234.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/report/apply_all_data/report20180807163013.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/report/apply_all_data/report20180808102541.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/report/apply_all_data/report20180808103608.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/report/buy_count/report20180806172838.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/report/buy_count/report20180806173152.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/report/buy_count/report20180807090134.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/report/buy_count/report20180807133334.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/report/buy_count/report20180807143652.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/report/buy_count/report20180807153150.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/report/buy_count/report20180807160608.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/report/buy_count/report20180807163348.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/report/buy_count/report20180808102840.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/report/buy_count/report20180808103846.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/report/buy_data/report20180806173231.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/report/buy_data/report20180807090207.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/report/buy_data/report20180807143709.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/report/buy_data/report20180807153207.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/report/buy_data/report20180807160620.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/report/buy_data/report20180807163408.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/report/buy_data/report20180808102918.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/report/buy_data/report20180808103907.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/report/fabu/report20180802150649.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/report/fabu/report20180802151625.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/report/fabu/report20180803160738.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/report/fabu/report20180803161413.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/report/fabu/report20180806172530.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/report/fabu/report20180807085919.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/report/fabu/report20180807142720.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/report/fabu/report20180807143435.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/report/fabu/report20180807152934.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/report/fabu/report20180807154755.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/report/fabu/report20180807160351.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/report/fabu/report20180807163129.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/report/fabu/report20180808102621.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/report/fabu/report20180808103647.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/report/shenqingtihuo/report20180807133227.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/report/shenqingtihuo/report20180807143850.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/report/shenqingtihuo/report20180807153406.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/report/shenqingtihuo/report20180807160816.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/report/shenqingtihuo/report20180807163604.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/report/shenqingtihuo/report20180808103041.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/report/shenqingtihuo/report20180808104116.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/report/tihuoshenqing_data/report20180807133413.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/report/tihuoshenqing_data/report20180807133742.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/report/tihuoshenqing_data/report20180807133828.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/report/tihuoshenqing_data/report20180807134033.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/report/tihuoshenqing_data/report20180807143835.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/report/tihuoshenqing_data/report20180807153351.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/report/tihuoshenqing_data/report20180807160801.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/report/tihuoshenqing_data/report20180807163549.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/report/tihuoshenqing_data/report20180808103024.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/report/tihuoshenqing_data/report20180808104100.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/report/tihuoshenqingchaxun_data/report20180807141359.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/report/tihuoshenqingchaxun_data/report20180807143941.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/report/tihuoshenqingchaxun_data/report20180807153441.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/report/tihuoshenqingchaxun_data/report20180807160903.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/report/tihuoshenqingchaxun_data/report20180807163649.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/report/tihuoshenqingchaxun_data/report20180808103239.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/report/tihuoshenqingchaxun_data/report20180808104203.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/result_file/add/20180802150452.xlsx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/result_file/add/20180802151422.xlsx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/result_file/add/20180803160519.xlsx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/result_file/add/20180803161209.xlsx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/result_file/add/20180806154641.xlsx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/result_file/add/20180806160224.xlsx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/result_file/add/20180806161248.xlsx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/result_file/add/20180807085650.xlsx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/result_file/add/20180807091123.xlsx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/result_file/add/20180807112516.xlsx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/result_file/add/20180807133729.xlsx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/result_file/add/20180807142430.xlsx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/result_file/add/20180807143138.xlsx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/result_file/add/20180807152624.xlsx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/result_file/add/20180807155721.xlsx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/result_file/add/20180807160042.xlsx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/result_file/add/20180807162821.xlsx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/result_file/add/20180808102335.xlsx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/result_file/add/20180808103421.xlsx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/result_file/fabu/20180802150739.xlsx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/result_file/fabu/20180802151718.xlsx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/result_file/fabu/20180803160830.xlsx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/result_file/fabu/20180803161506.xlsx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/result_file/fabu/20180806110213.xlsx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/result_file/fabu/20180806110844.xlsx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/result_file/fabu/20180806111453.xlsx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/result_file/fabu/20180806111808.xlsx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/result_file/fabu/20180806172636.xlsx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/result_file/fabu/20180806173133.xlsx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/result_file/fabu/20180807090023.xlsx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/result_file/fabu/20180807143558.xlsx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/result_file/fabu/20180807153044.xlsx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/result_file/fabu/20180807154244.xlsx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/result_file/fabu/20180807154904.xlsx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/result_file/fabu/20180807160516.xlsx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/result_file/fabu/20180807163255.xlsx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/result_file/fabu/20180808102733.xlsx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/file/result_file/fabu/20180808103756.xlsx" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test_cases/add/test_detail_add_data_confirm.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test_cases/add/test_rukushenqingchaxun_data_confirm.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test_cases/add/test_shenqingruku_all.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test_cases/add/test_shenqingruku_one.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test_cases/buy_count/test_buy_count.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test_cases/buy_data/test_sell_data_confirm.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test_cases/buy_data/test_sold_data_confirm.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test_cases/fabu/test_fabu_data_confirm.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test_cases/fabu/test_fabulishi_data_confirm.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test_cases/fabu/test_index_data_confirm.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test_cases/fabu/test_kucunchaxun_data_confirm.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test_cases/fabu/test_shangpinshangjia_data_confirm.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test_cases/suit/suitecase_add.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test_cases/tihuoguanli/test_shenqingtihuo_add_all.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test_cases/tihuoguanli/test_shenqingtihuo_add_one.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test_cases/tihuoguanli/test_tihuoshenqing_add_data_confirm.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test_cases/tihuoguanli/test_tihuoshenqingchaxun_data_confirm.py" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db/test.db" afterPath="$PROJECT_DIR$/db/test.db" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/file/input_file/rukumingxi.xlsx" afterPath="$PROJECT_DIR$/file/input_file/rukumingxi.xlsx" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/input_test/fabu.py" afterPath="$PROJECT_DIR$/input_test/fabu.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/object.py" afterPath="$PROJECT_DIR$/object.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/run.py" afterPath="$PROJECT_DIR$/run.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test_cases/suit/suitecase_buy_count.py" afterPath="$PROJECT_DIR$/test_cases/suit/suitecase_buy_count.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test_cases/suit/suitecase_buy_data_confirm.py" afterPath="$PROJECT_DIR$/test_cases/suit/suitecase_buy_data_confirm.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test_cases/suit/suitecase_shenqingtihuo.py" afterPath="$PROJECT_DIR$/test_cases/suit/suitecase_shenqingtihuo.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test_cases/suit/suitecase_tihuoshenqing_data_confirm.py" afterPath="$PROJECT_DIR$/test_cases/suit/suitecase_tihuoshenqing_data_confirm.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test_cases/suit/suitecase_tihuoshenqingchaxun_data_confirm.py" afterPath="$PROJECT_DIR$/test_cases/suit/suitecase_tihuoshenqingchaxun_data_confirm.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/args.py" afterPath="$PROJECT_DIR$/config.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/input_test/deatail_add.py" afterPath="$PROJECT_DIR$/input_test/add.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test_cases/suit/suitecase_add_apply_all.py" afterPath="$PROJECT_DIR$/test_cases/suit/suitecase_apply.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test_cases/suit/suitecase_apply_all_data_confirm.py" afterPath="$PROJECT_DIR$/test_cases/suit/suitecase_apply_data_confirm.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/test_cases/suit/suitecase_fabu.py" afterPath="$PROJECT_DIR$/test_cases/suit/suitecase_fabu_data.py" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -10,24 +180,117 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="run.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/run.py">
+    <leaf>
+      <file leaf-file-name="test_buy_count.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test_cases/front/buy_count/test_buy_count.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="321">
-              <caret line="25" column="9" lean-forward="true" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
+            <state relative-caret-position="-304">
+              <caret line="2" column="46" lean-forward="false" selection-start-line="2" selection-start-column="33" selection-end-line="2" selection-end-column="46" />
               <folding>
-                <element signature="e#0#49#0" expanded="true" />
+                <element signature="e#0#45#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="process_front.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="config.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="304">
+              <caret line="16" column="10" lean-forward="false" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="suitecase_fabu_data.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test_cases/suit/suitecase_fabu_data.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="328">
+              <caret line="31" column="0" lean-forward="true" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test_index_data_confirm.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/test_cases/front/fabu/test_index_data_confirm.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="76">
+              <caret line="4" column="35" lean-forward="false" selection-start-line="4" selection-start-column="35" selection-end-line="4" selection-end-column="35" />
+              <folding>
+                <element signature="e#0#45#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="fabu.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/input_test/fabu.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2204">
+              <caret line="145" column="0" lean-forward="true" selection-start-line="145" selection-start-column="0" selection-end-line="145" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#45#0" expanded="true" />
+                <element signature="e#4370#5685#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="process_front.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/model/process_front.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="121" column="44" lean-forward="true" selection-start-line="121" selection-start-column="44" selection-end-line="121" selection-end-column="44" />
+            <state relative-caret-position="-685">
+              <caret line="737" column="8" lean-forward="false" selection-start-line="737" selection-start-column="8" selection-end-line="737" selection-end-column="8" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="clear_file.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/clear/clear_file.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="332">
+              <caret line="51" column="0" lean-forward="true" selection-start-line="51" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
+              <folding>
+                <element signature="e#31#70#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test_sell_data_confirm.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test_cases/front/buy_data/test_sell_data_confirm.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-323">
+              <caret line="4" column="53" lean-forward="false" selection-start-line="4" selection-start-column="53" selection-end-line="4" selection-end-column="53" />
+              <folding>
+                <element signature="e#0#45#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test_sold_data_confirm.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test_cases/front/buy_data/test_sold_data_confirm.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="76">
+              <caret line="4" column="39" lean-forward="false" selection-start-line="4" selection-start-column="39" selection-end-line="4" selection-end-column="39" />
+              <folding>
+                <element signature="e#0#45#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test_fabu_data_confirm.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test_cases/front/fabu/test_fabu_data_confirm.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-380">
+              <caret line="4" column="28" lean-forward="false" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="28" />
               <folding />
             </state>
           </provider>
@@ -58,6 +321,8 @@
       <find>pipei</find>
       <find>into_pipei</find>
       <find>shopp</find>
+      <find>login</find>
+      <find>_top_level_dir</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -66,50 +331,10 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/test_cases/test_rukushenqingchaxun_data_confirm.py" />
-        <option value="$PROJECT_DIR$/test_cases/test_fabu_data_confirm.py" />
-        <option value="$PROJECT_DIR$/test_cases/test_fabulishi_data_confirm.py" />
-        <option value="$PROJECT_DIR$/test_cases/test_shenqingruku_all.py" />
-        <option value="$PROJECT_DIR$/test_cases/test_shangpinshangjia_data_confirm.py" />
-        <option value="$PROJECT_DIR$/test_cases/test_shenqingruku_one.py" />
-        <option value="$PROJECT_DIR$/test_cases/test_kucunchaxun_data_confirm.py" />
-        <option value="$PROJECT_DIR$/suitecase.py" />
-        <option value="$PROJECT_DIR$/suit/suitecase.py" />
-        <option value="$PROJECT_DIR$/test_cases/buy/test_sell_data_confirm.py" />
-        <option value="$PROJECT_DIR$/test_cases/buy/test_sold_data_confirm.py" />
-        <option value="$PROJECT_DIR$/input_test/buy.py" />
-        <option value="$PROJECT_DIR$/test_cases/tihuoshenqing/test_add_data_confirm.py" />
-        <option value="$PROJECT_DIR$/test_cases/tihuoguanli/test_tihuoshenqing_buy_data_confirm.py" />
-        <option value="$PROJECT_DIR$/model/untils.py" />
-        <option value="$PROJECT_DIR$/test_cases/fabu/test_shangpinshangjia_data_confirm.py" />
-        <option value="$PROJECT_DIR$/test_cases/fabu/test_kucunchaxun_data_confirm.py" />
-        <option value="$PROJECT_DIR$/test_cases/fabu/test_fabulishi_data_confirm.py" />
-        <option value="$PROJECT_DIR$/test_cases/fabu/test_fabu_data_confirm.py" />
-        <option value="$PROJECT_DIR$/test_cases/add/test_detail_add_data_confirm.py" />
-        <option value="$PROJECT_DIR$/object.py" />
-        <option value="$PROJECT_DIR$/test_cases/buy_count/test_buy_count.py" />
-        <option value="$PROJECT_DIR$/test_cases/add/test_shenqingruku_all.py" />
-        <option value="$PROJECT_DIR$/test_cases/add/test_shenqingruku_one.py" />
-        <option value="$PROJECT_DIR$/suit/suitecase_tihuoshenqing_count.py" />
-        <option value="$PROJECT_DIR$/suit/suitecase_tihuoshenqing.py" />
-        <option value="$PROJECT_DIR$/suit/suitecase_add.py" />
-        <option value="$PROJECT_DIR$/suit/suitecase_add_apply_all.py" />
-        <option value="$PROJECT_DIR$/suit/suitecase_apply_all_data_confirm.py" />
-        <option value="$PROJECT_DIR$/suit/suitecase_buy_count.py" />
-        <option value="$PROJECT_DIR$/suit/suitecase_buy_data_confirm.py" />
-        <option value="$PROJECT_DIR$/suit/suitecase_fabu.py" />
-        <option value="$PROJECT_DIR$/suit/suitecase_shenqingtihuo.py" />
-        <option value="$PROJECT_DIR$/suit/suitecase_tihuoshenqing_data_confirm.py" />
-        <option value="$PROJECT_DIR$/suit/suitecase_tihuoshenqingchaxun_data_confirm.py" />
-        <option value="$PROJECT_DIR$/input_test/deatail_add.py" />
-        <option value="$PROJECT_DIR$/input_test/fabu.py" />
         <option value="$PROJECT_DIR$/test_cases/fabu/test_index_data_confirm.py" />
         <option value="$PROJECT_DIR$/model/process_back.py" />
-        <option value="$PROJECT_DIR$/args.py" />
-        <option value="$PROJECT_DIR$/run.py" />
         <option value="$PROJECT_DIR$/test_cases/tihuoguanli/test_shenqingtihuo_add_all.py" />
         <option value="$PROJECT_DIR$/test_cases/tihuoguanli/test_shenqingtihuo_add_one.py" />
-        <option value="$PROJECT_DIR$/test_cases/suit/suitecase_add.py" />
         <option value="$PROJECT_DIR$/app.py" />
         <option value="$PROJECT_DIR$/test_cases/tihuoguanli/test_tihuoshenqing_add_data_confirm.py" />
         <option value="$PROJECT_DIR$/test_cases/tihuoguanli/test_tihuoshenqingchaxun_data_confirm.py" />
@@ -117,10 +342,50 @@
         <option value="$PROJECT_DIR$/test_cases/buy_data/test_sold_data_confirm.py" />
         <option value="$PROJECT_DIR$/test_cases/add/test_rukushenqingchaxun_data_confirm.py" />
         <option value="$PROJECT_DIR$/model/process_front.py" />
+        <option value="$PROJECT_DIR$/object.py" />
+        <option value="$PROJECT_DIR$/input_test/login.py" />
+        <option value="$PROJECT_DIR$/input_test/deatail_add.py" />
+        <option value="$PROJECT_DIR$/args.py" />
+        <option value="$PROJECT_DIR$/test_cases/suit/suitecase_add_apply.py" />
+        <option value="$PROJECT_DIR$/test_cases/suit/suitecase_apply_all_data_confirm.py" />
+        <option value="$PROJECT_DIR$/test_cases/front/add/test_detail_add_data_confirm.py" />
+        <option value="$PROJECT_DIR$/test_cases/front/buy_count/test_buy_count.py" />
+        <option value="$PROJECT_DIR$/test_cases/front/buy_data/test_sold_data_confirm.py" />
+        <option value="$PROJECT_DIR$/test_cases/front/fabu/test_fabu_data_confirm.py" />
+        <option value="$PROJECT_DIR$/test_cases/front/fabu/test_fabulishi_data_confirm.py" />
+        <option value="$PROJECT_DIR$/test_cases/front/ruku/test_shenqingruku_all.py" />
+        <option value="$PROJECT_DIR$/test_cases/front/ruku/test_shenqingruku_one.py" />
+        <option value="$PROJECT_DIR$/test_cases/front/ruku_data/test_kucunchaxun_data_confirm.py" />
+        <option value="$PROJECT_DIR$/test_cases/front/ruku_data/test_rukushenqingchaxun_data_confirm.py" />
+        <option value="$PROJECT_DIR$/test_cases/front/ruku_data/test_shangpinshangjia_data_confirm.py" />
+        <option value="$PROJECT_DIR$/test_cases/front/shenqingtihuo/test_shenqingtihuo_add_all.py" />
+        <option value="$PROJECT_DIR$/test_cases/front/shenqingtihuo/test_shenqingtihuo_add_one.py" />
+        <option value="$PROJECT_DIR$/test_cases/front/tihuoguanli/test_tihuoshenqing_add_data_confirm.py" />
+        <option value="$PROJECT_DIR$/test_cases/front/tihuoshenqingchaxun/test_tihuoshenqingchaxun_data_confirm.py" />
+        <option value="$PROJECT_DIR$/test_cases/suit/suitecase_ruku.py" />
+        <option value="$PROJECT_DIR$/test_cases/suit/suitecase_ruku_data_confirm.py" />
+        <option value="$PROJECT_DIR$/test_cases/suit/suitecase_add.py" />
+        <option value="$PROJECT_DIR$/test_cases/suit/suitecase_fabu.py" />
+        <option value="$PROJECT_DIR$/input_test/add.py" />
+        <option value="$PROJECT_DIR$/run.py" />
+        <option value="$PROJECT_DIR$/test_cases/suit/suitecase_add_data.py" />
+        <option value="$PROJECT_DIR$/test_cases/suit/suitecase_apply.py" />
+        <option value="$PROJECT_DIR$/test_cases/suit/suitecase_apply_data_confirm.py" />
+        <option value="$PROJECT_DIR$/test_cases/suit/suitecase_buy_count.py" />
+        <option value="$PROJECT_DIR$/test_cases/suit/suitecase_buy_data_confirm.py" />
+        <option value="$PROJECT_DIR$/test_cases/suit/suitecase_fabu_data.py" />
+        <option value="$PROJECT_DIR$/test_cases/suit/suitecase_shenqingtihuo.py" />
+        <option value="$PROJECT_DIR$/test_cases/suit/suitecase_tihuoshenqing_data_confirm.py" />
+        <option value="$PROJECT_DIR$/test_cases/suit/suitecase_tihuoshenqingchaxun_data_confirm.py" />
+        <option value="$PROJECT_DIR$/test_cases/front/buy_data/test_sell_data_confirm.py" />
+        <option value="$PROJECT_DIR$/clear/clear_file.py" />
+        <option value="$PROJECT_DIR$/input_test/fabu.py" />
+        <option value="$PROJECT_DIR$/config.py" />
+        <option value="$PROJECT_DIR$/test_cases/front/fabu/test_index_data_confirm.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="203" />
     <option name="width" value="1171" />
     <option name="height" value="767" />
@@ -141,6 +406,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -151,12 +418,24 @@
             <path>
               <item name="peihuo" type="b2602c69:ProjectViewProjectNode" />
               <item name="peihuo" type="462c0819:PsiDirectoryNode" />
-              <item name="db" type="462c0819:PsiDirectoryNode" />
+              <item name="clear" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="peihuo" type="b2602c69:ProjectViewProjectNode" />
               <item name="peihuo" type="462c0819:PsiDirectoryNode" />
               <item name="file" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="peihuo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="peihuo" type="462c0819:PsiDirectoryNode" />
+              <item name="file" type="462c0819:PsiDirectoryNode" />
+              <item name="everyreport" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="peihuo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="peihuo" type="462c0819:PsiDirectoryNode" />
+              <item name="file" type="462c0819:PsiDirectoryNode" />
+              <item name="input_file" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="peihuo" type="b2602c69:ProjectViewProjectNode" />
@@ -167,14 +446,35 @@
             <path>
               <item name="peihuo" type="b2602c69:ProjectViewProjectNode" />
               <item name="peihuo" type="462c0819:PsiDirectoryNode" />
-              <item name="model" type="462c0819:PsiDirectoryNode" />
+              <item name="file" type="462c0819:PsiDirectoryNode" />
+              <item name="result_file" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="peihuo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="peihuo" type="462c0819:PsiDirectoryNode" />
+              <item name="input_test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="peihuo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="peihuo" type="462c0819:PsiDirectoryNode" />
+              <item name="test_cases" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="peihuo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="peihuo" type="462c0819:PsiDirectoryNode" />
+              <item name="test_cases" type="462c0819:PsiDirectoryNode" />
+              <item name="front" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="peihuo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="peihuo" type="462c0819:PsiDirectoryNode" />
+              <item name="test_cases" type="462c0819:PsiDirectoryNode" />
+              <item name="suit" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -183,17 +483,18 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\autotest\peihuo\file\input_file" />
       <recent name="F:\autotest\peihuo\file" />
       <recent name="F:\autotest\peihuo\test_cases" />
       <recent name="F:\autotest\peihuo\model" />
       <recent name="F:\autotest\peihuo" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="F:\autotest\peihuo\test_cases" />
-      <recent name="F:\autotest\peihuo\file" />
-      <recent name="F:\autotest\peihuo\file\input_file" />
-      <recent name="F:\autotest\peihuo\report\tihuoshenqingchaxun_data" />
-      <recent name="F:\autotest\peihuo\suit" />
+      <recent name="F:\autotest\peihuo\test_cases\front\tihuoshenqingchaxun" />
+      <recent name="F:\autotest\peihuo\test_cases\front\shenqingtihuo" />
+      <recent name="F:\autotest\peihuo\test_cases\front\shenqingruku_data" />
+      <recent name="F:\autotest\peihuo\test_cases\front\shenqingruku" />
+      <recent name="F:\autotest\peihuo\test_cases\front" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -208,48 +509,40 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.run">
-    <configuration name="Unittests in test_buy_count.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.suitecase_fabu_data">
+    <configuration name="clear_file" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test_cases/buy_count" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/clear" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="peihuo" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/test_cases/buy_count/test_buy_count.py&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/clear/clear_file.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="Unittests in test_detail_add_data_confirm.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+    <configuration name="fabu" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test_cases/add" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/input_test" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="peihuo" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/test_cases/add/test_detail_add_data_confirm.py&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
-    </configuration>
-    <configuration name="Unittests in test_tihuoshenqingchaxun_data_confirm.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test_cases/tihuoguanli" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="peihuo" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/test_cases/tihuoguanli/test_tihuoshenqingchaxun_data_confirm.py&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/input_test/fabu.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
     <configuration name="run" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -268,7 +561,7 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="suitecase_add" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="suitecase_apply" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -280,25 +573,42 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="peihuo" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test_cases/suit/suitecase_add.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test_cases/suit/suitecase_apply.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="suitecase_fabu_data" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test_cases/suit" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="peihuo" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test_cases/suit/suitecase_fabu_data.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.run" />
-      <item index="1" class="java.lang.String" itemvalue="Python tests.Unittests in test_buy_count.py" />
-      <item index="2" class="java.lang.String" itemvalue="Python tests.Unittests in test_detail_add_data_confirm.py" />
-      <item index="3" class="java.lang.String" itemvalue="Python tests.Unittests in test_tihuoshenqingchaxun_data_confirm.py" />
-      <item index="4" class="java.lang.String" itemvalue="Python.suitecase_add" />
+      <item index="0" class="java.lang.String" itemvalue="Python.clear_file" />
+      <item index="1" class="java.lang.String" itemvalue="Python.run" />
+      <item index="2" class="java.lang.String" itemvalue="Python.suitecase_apply" />
+      <item index="3" class="java.lang.String" itemvalue="Python.suitecase_fabu_data" />
+      <item index="4" class="java.lang.String" itemvalue="Python.fabu" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.run" />
-        <item index="1" class="java.lang.String" itemvalue="Python.suitecase_add" />
-        <item index="2" class="java.lang.String" itemvalue="Python tests.Unittests in test_tihuoshenqingchaxun_data_confirm.py" />
-        <item index="3" class="java.lang.String" itemvalue="Python tests.Unittests in test_detail_add_data_confirm.py" />
-        <item index="4" class="java.lang.String" itemvalue="Python tests.Unittests in test_buy_count.py" />
+        <item index="0" class="java.lang.String" itemvalue="Python.suitecase_fabu_data" />
+        <item index="1" class="java.lang.String" itemvalue="Python.fabu" />
+        <item index="2" class="java.lang.String" itemvalue="Python.clear_file" />
+        <item index="3" class="java.lang.String" itemvalue="Python.run" />
+        <item index="4" class="java.lang.String" itemvalue="Python.suitecase_apply" />
       </list>
     </recent_temporary>
   </component>
@@ -360,27 +670,53 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29198185" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32569557" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31996974" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32459018" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22585924" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.10310966" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295082" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.45081967" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18852459" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.1685761" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21440262" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23770492" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24962178" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -389,35 +725,24 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/object.py</url>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/test_cases/fabu/test_fabulishi_data_confirm.py</url>
+          <url>file://$PROJECT_DIR$/test_cases/front/fabu/test_fabulishi_data_confirm.py</url>
           <line>41</line>
           <option name="timeStamp" value="3" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/test_cases/suit/suitecase_add.py</url>
-          <line>33</line>
-          <option name="timeStamp" value="6" />
+          <url>file://$PROJECT_DIR$/test_cases/front/apply_data/test_kucunchaxun_data_confirm.py</url>
+          <option name="timeStamp" value="7" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="7" />
+      <option name="time" value="10" />
     </breakpoint-manager>
-    <watches-manager />
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="top_level_dir" language="Python" />
+      </configuration>
+    </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/HTMLTestRunner.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/model/index.py" />
-    <entry file="file://$PROJECT_DIR$/test_cases/test_web.py" />
-    <entry file="file://$PROJECT_DIR$/test_cases/test_add.py" />
     <entry file="file://$PROJECT_DIR$/test_cases/test_add_detail_input.py" />
     <entry file="file://$PROJECT_DIR$/test_cases/test_shiwuruku_delete_one.py" />
     <entry file="file://$PROJECT_DIR$/demo.py" />
@@ -437,138 +762,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test_cases/fabu/test_shangpinshangjia_data_confirm.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="489">
-          <caret line="40" column="73" lean-forward="false" selection-start-line="40" selection-start-column="41" selection-end-line="40" selection-end-column="73" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test_cases/fabu/test_kucunchaxun_data_confirm.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="40" column="71" lean-forward="true" selection-start-line="40" selection-start-column="39" selection-end-line="40" selection-end-column="71" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test_cases/fabu/test_fabulishi_data_confirm.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="412">
-          <caret line="42" column="71" lean-forward="false" selection-start-line="42" selection-start-column="39" selection-end-line="42" selection-end-column="71" />
-          <folding>
-            <element signature="e#0#45#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/object.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="78" column="37" lean-forward="false" selection-start-line="78" selection-start-column="37" selection-end-line="78" selection-end-column="37" />
-          <folding>
-            <element signature="e#0#30#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test_cases/add/test_shenqingruku_one.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="45" column="34" lean-forward="true" selection-start-line="45" selection-start-column="34" selection-end-line="45" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test_cases/add/test_shenqingruku_all.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="44" column="200" lean-forward="false" selection-start-line="44" selection-start-column="116" selection-end-line="44" selection-end-column="200" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test_cases/suit/suitecase_add_apply_all.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="16" column="49" lean-forward="false" selection-start-line="16" selection-start-column="49" selection-end-line="16" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test_cases/suit/suitecase_apply_all_data_confirm.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="21" column="49" lean-forward="false" selection-start-line="21" selection-start-column="49" selection-end-line="21" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test_cases/suit/suitecase_buy_count.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="15" column="49" lean-forward="false" selection-start-line="15" selection-start-column="49" selection-end-line="15" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test_cases/suit/suitecase_buy_data_confirm.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="49" lean-forward="false" selection-start-line="19" selection-start-column="49" selection-end-line="19" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test_cases/suit/suitecase_shenqingtihuo.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="302">
-          <caret line="21" column="49" lean-forward="false" selection-start-line="21" selection-start-column="49" selection-end-line="21" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test_cases/suit/suitecase_tihuoshenqing_data_confirm.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="14" column="49" lean-forward="false" selection-start-line="14" selection-start-column="49" selection-end-line="14" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test_cases/suit/suitecase_tihuoshenqingchaxun_data_confirm.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="14" column="49" lean-forward="false" selection-start-line="14" selection-start-column="49" selection-end-line="14" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/input_test/deatail_add.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="48" column="41" lean-forward="false" selection-start-line="48" selection-start-column="41" selection-end-line="48" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/input_test/fabu.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="139" column="0" lean-forward="true" selection-start-line="139" selection-start-column="0" selection-end-line="139" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test_cases/fabu/test_index_data_confirm.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="44" column="19" lean-forward="true" selection-start-line="44" selection-start-column="19" selection-end-line="44" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test_cases/suit/suitecase_fabu.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="513">
-          <caret line="34" column="14" lean-forward="true" selection-start-line="34" selection-start-column="14" selection-end-line="34" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test_cases/buy_count/test_buy_count.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="351">
-          <caret line="48" column="19" lean-forward="false" selection-start-line="48" selection-start-column="19" selection-end-line="48" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/model/process_back.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1368">
@@ -576,35 +769,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/args.py">
+    <entry file="file://$PROJECT_DIR$/db_model/peihuo_model.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test_cases/tihuoguanli/test_shenqingtihuo_add_all.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="5" column="32" lean-forward="false" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="32" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test_cases/tihuoguanli/test_shenqingtihuo_add_one.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="10" column="54" lean-forward="false" selection-start-line="10" selection-start-column="54" selection-end-line="10" selection-end-column="54" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test_cases/fabu/test_fabu_data_confirm.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="722">
-          <caret line="42" column="0" lean-forward="false" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="217">
+          <caret line="27" column="42" lean-forward="false" selection-start-line="27" selection-start-column="36" selection-end-line="27" selection-end-column="42" />
         </state>
       </provider>
     </entry>
@@ -616,85 +784,343 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test_cases/tihuoguanli/test_tihuoshenqing_add_data_confirm.py">
+    <entry file="file://$PROJECT_DIR$/input_test/login.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="307">
-          <caret line="34" column="38" lean-forward="false" selection-start-line="34" selection-start-column="38" selection-end-line="34" selection-end-column="38" />
+        <state relative-caret-position="171">
+          <caret line="9" column="33" lean-forward="true" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/python/Lib/zipfile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="1008" column="0" lean-forward="false" selection-start-line="1008" selection-start-column="0" selection-end-line="1008" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/db_model/peihuo_model.py">
+    <entry file="file://$PROJECT_DIR$/test_cases/front/add/test_detail_add_data_confirm.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="217">
-          <caret line="27" column="42" lean-forward="false" selection-start-line="27" selection-start-column="36" selection-end-line="27" selection-end-column="42" />
-          <folding />
+        <state relative-caret-position="114">
+          <caret line="6" column="34" lean-forward="false" selection-start-line="6" selection-start-column="34" selection-end-line="6" selection-end-column="34" />
+          <folding>
+            <element signature="e#0#15#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test_cases/tihuoguanli/test_tihuoshenqingchaxun_data_confirm.py">
+    <entry file="file://$PROJECT_DIR$/test_cases/front/fabu/test_fabulishi_data_confirm.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="359">
-          <caret line="51" column="0" lean-forward="true" selection-start-line="51" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="76">
+          <caret line="4" column="35" lean-forward="false" selection-start-line="4" selection-start-column="35" selection-end-line="4" selection-end-column="35" />
+          <folding>
+            <element signature="e#0#45#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test_cases/buy_data/test_sell_data_confirm.py">
+    <entry file="file://$PROJECT_DIR$/test_cases/front/apply/test_shenqingruku_all.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="38" column="31" lean-forward="false" selection-start-line="38" selection-start-column="31" selection-end-line="38" selection-end-column="31" />
-          <folding />
+        <state relative-caret-position="-380">
+          <caret line="4" column="27" lean-forward="false" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
+          <folding>
+            <element signature="e#0#15#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test_cases/buy_data/test_sold_data_confirm.py">
+    <entry file="file://$PROJECT_DIR$/test_cases/front/apply/test_shenqingruku_one.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="38" column="31" lean-forward="false" selection-start-line="38" selection-start-column="31" selection-end-line="38" selection-end-column="31" />
-          <folding />
+        <state relative-caret-position="38">
+          <caret line="2" column="40" lean-forward="false" selection-start-line="2" selection-start-column="40" selection-end-line="2" selection-end-column="40" />
+          <folding>
+            <element signature="e#0#15#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test_cases/suit/suitecase_add.py">
+    <entry file="file://$PROJECT_DIR$/test_cases/front/apply_data/test_kucunchaxun_data_confirm.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="34" lean-forward="false" selection-start-line="4" selection-start-column="34" selection-end-line="4" selection-end-column="34" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_cases/front/apply_data/test_rukushenqingchaxun_data_confirm.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="34" lean-forward="false" selection-start-line="4" selection-start-column="34" selection-end-line="4" selection-end-column="34" />
+          <folding>
+            <element signature="e#0#15#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_cases/front/apply_data/test_shangpinshangjia_data_confirm.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="34" lean-forward="false" selection-start-line="5" selection-start-column="34" selection-end-line="5" selection-end-column="34" />
+          <folding>
+            <element signature="e#0#15#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_cases/front/shenqingtihuo/test_shenqingtihuo_add_all.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="27" lean-forward="false" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
+          <folding>
+            <element signature="e#0#15#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_cases/front/shenqingtihuo/test_shenqingtihuo_add_one.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="40" lean-forward="false" selection-start-line="2" selection-start-column="40" selection-end-line="2" selection-end-column="40" />
+          <folding>
+            <element signature="e#0#15#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_cases/front/tihuoshenqing/test_tihuoshenqing_add_data_confirm.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="34" lean-forward="false" selection-start-line="4" selection-start-column="34" selection-end-line="4" selection-end-column="34" />
+          <folding>
+            <element signature="e#0#15#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_cases/front/tihuoshenqingchaxun/test_tihuoshenqingchaxun_data_confirm.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="34" lean-forward="false" selection-start-line="4" selection-start-column="34" selection-end-line="4" selection-end-column="34" />
+          <folding>
+            <element signature="e#0#15#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/input_test/add.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="49" column="45" lean-forward="false" selection-start-line="49" selection-start-column="45" selection-end-line="49" selection-end-column="45" />
+          <folding>
+            <element signature="e#0#45#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/object.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/python/Lib/unittest/loader.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="142">
+          <caret line="73" column="18" lean-forward="false" selection-start-line="73" selection-start-column="4" selection-end-line="73" selection-end-column="18" />
+          <folding>
+            <element signature="e#13051#14521#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_cases/suit/suitecase_add_data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="12" column="30" lean-forward="false" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="30" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_cases/suit/suitecase_apply.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
-          <caret line="24" column="28" lean-forward="true" selection-start-line="24" selection-start-column="28" selection-end-line="24" selection-end-column="28" />
-          <folding />
+          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test_cases/add/test_detail_add_data_confirm.py">
+    <entry file="file://$PROJECT_DIR$/test_cases/suit/suitecase_apply_data_confirm.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="335">
-          <caret line="39" column="60" lean-forward="false" selection-start-line="39" selection-start-column="49" selection-end-line="39" selection-end-column="60" />
-          <folding />
+        <state relative-caret-position="152">
+          <caret line="8" column="29" lean-forward="false" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="29" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test_cases/add/test_rukushenqingchaxun_data_confirm.py">
+    <entry file="file://$PROJECT_DIR$/test_cases/suit/suitecase_buy_count.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="359">
-          <caret line="42" column="71" lean-forward="false" selection-start-line="42" selection-start-column="60" selection-end-line="42" selection-end-column="71" />
-          <folding />
+        <state relative-caret-position="76">
+          <caret line="10" column="31" lean-forward="false" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="31" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_cases/suit/suitecase_buy_data_confirm.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="11" column="31" lean-forward="false" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="31" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_cases/suit/suitecase_shenqingtihuo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="31" lean-forward="false" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="31" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_cases/suit/suitecase_tihuoshenqing_data_confirm.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="8" column="31" lean-forward="false" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="31" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_cases/suit/suitecase_tihuoshenqingchaxun_data_confirm.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/run.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="321">
-          <caret line="25" column="9" lean-forward="true" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
+        <state relative-caret-position="361">
+          <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
           <folding>
-            <element signature="e#0#49#0" expanded="true" />
+            <element signature="e#0#54#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_cases/front/buy_count/test_buy_count.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-304">
+          <caret line="2" column="46" lean-forward="false" selection-start-line="2" selection-start-column="33" selection-end-line="2" selection-end-column="46" />
+          <folding>
+            <element signature="e#0#45#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_cases/front/buy_data/test_sell_data_confirm.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-323">
+          <caret line="4" column="53" lean-forward="false" selection-start-line="4" selection-start-column="53" selection-end-line="4" selection-end-column="53" />
+          <folding>
+            <element signature="e#0#45#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_cases/front/buy_data/test_sold_data_confirm.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="39" lean-forward="false" selection-start-line="4" selection-start-column="39" selection-end-line="4" selection-end-column="39" />
+          <folding>
+            <element signature="e#0#45#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_cases/front/fabu/test_fabu_data_confirm.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-380">
+          <caret line="4" column="28" lean-forward="false" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/clear/clear_file.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="332">
+          <caret line="51" column="0" lean-forward="true" selection-start-line="51" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
+          <folding>
+            <element signature="e#31#70#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/model/process_front.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="121" column="44" lean-forward="true" selection-start-line="121" selection-start-column="44" selection-end-line="121" selection-end-column="44" />
+        <state relative-caret-position="-685">
+          <caret line="737" column="8" lean-forward="false" selection-start-line="737" selection-start-column="8" selection-end-line="737" selection-end-column="8" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/input_test/fabu.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2204">
+          <caret line="145" column="0" lean-forward="true" selection-start-line="145" selection-start-column="0" selection-end-line="145" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#45#0" expanded="true" />
+            <element signature="e#4370#5685#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="10" lean-forward="false" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_cases/suit/suitecase_fabu_data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="328">
+          <caret line="31" column="0" lean-forward="true" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_cases/front/fabu/test_index_data_confirm.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="35" lean-forward="false" selection-start-line="4" selection-start-column="35" selection-end-line="4" selection-end-column="35" />
+          <folding>
+            <element signature="e#0#45#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

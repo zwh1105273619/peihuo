@@ -3,6 +3,7 @@ from model.untils import read_data,write_data
 import datetime
 from db_model.peihuo_model import Fabu
 from app import db
+from config import excel_fabu_input,excel_every,report_name
 
 
 
@@ -10,7 +11,7 @@ from app import db
 
 def fabu_304(username):
     ##读取excel
-    datas = read_data(r'F:\autotest\peihuo\file\input_file\fabu.xlsx')
+    datas = read_data(excel_fabu_input)
 
     ##实例化
     process_front=Process_Front()
@@ -21,7 +22,6 @@ def fabu_304(username):
     shangpinshangjia_count=int(process_front.get_table_count())
     if len(datas)>shangpinshangjia_count:
         value=len(datas)-shangpinshangjia_count
-        print('差值是{}'.format(value))
         for i in range(value):
             process_front.into_shiwuruku()
             process_front.ruku_add_detail(stockCode='{}{}'.format(username,datetime.datetime.now().strftime('%Y%m%d%H%M%S')))
@@ -62,7 +62,6 @@ def fabu_304(username):
             'applyid': tr.find('td', attrs={'name': 'applyId'}).text,
             'stockid': tr.find('td', attrs={'name': 'stockId'}).text,
         }
-        print(data_detail)
         text=process_front.fabu(premium=data[2],contract=data[0],date_valid=True if data[1]=='1' else False)
         process_front.fresh()
         process_front.into_shangpinshangjia()
@@ -134,7 +133,7 @@ def fabu_304(username):
     ##关闭网页，将结果写入excel
     process_front.close()
     now=datetime.datetime.now().strftime('%Y%m%d%H%M%S')
-    write_data(r'F:\autotest\peihuo\file\result_file\fabu\{}.xlsx'.format(now),result,('编号','合约名称','日期是否有效','升贴水','结果','提示信息'))
+    write_data(excel_every.format(report_name.get('fabu')),result,('编号','合约名称','日期是否有效','升贴水','结果','提示信息'))
 
 
 

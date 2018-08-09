@@ -9,6 +9,7 @@ from selenium.webdriver.common.action_chains import ActionChains
 class Page:
     def __init__(self):
         self.driver = webdriver.Chrome()
+        # self.driver=webdriver.PhantomJS()
         self.driver.maximize_window()
 
     def open_url(self, url):

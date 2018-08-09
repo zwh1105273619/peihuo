@@ -1,27 +1,28 @@
-from HTMLTestRunner import HTMLTestRunner
-from datetime import datetime
 import unittest
-from test_cases.tihuoguanli.test_shenqingtihuo_add_one import Test_Shenqingtihuo_Add_one
-from test_cases.tihuoguanli.test_shenqingtihuo_add_all import Test_Shenqingtihuo_Add_All
+from datetime import datetime
 
+from HTMLTestRunner import HTMLTestRunner
+
+from config import report_every,report_name,cases_path
 
 def run_shenqingtihuo():
-    load_1 = unittest.TestLoader().loadTestsFromTestCase(Test_Shenqingtihuo_Add_one)
-    load_2 = unittest.TestLoader().loadTestsFromTestCase(Test_Shenqingtihuo_Add_All)
 
-    suite = unittest.TestSuite()
+    path = cases_path.get('shenqingtihuo')
 
-    suite.addTest(load_1)
-    suite.addTest(load_2)
+    dis = unittest.TestLoader()
+    cases = dis.discover(path, pattern='*.py')  ##从指定的目录下，以.py结尾的文件中自动去寻找测试用例
+
+
+
+
 
     now = datetime.now()
     report_file = open(
-        r'F:\autotest\peihuo\file\report\shenqingtihuo\report{}.html'.format(
-            now.strftime('%Y%m%d%H%M%S')), 'w', encoding='utf8')
+        report_every.format(report_name.get('shenqingtihuo')), 'w', encoding='utf8')
     runner_shenqingtihuo = HTMLTestRunner(
-        stream=report_file, title='申请提货', description='配货项目测试报告')
+        stream=report_file, title=report_name.get('shenqingtihuo'), description='配货项目测试报告')
 
-    runner_shenqingtihuo.run(suite)
+    runner_shenqingtihuo.run(cases)
 
 
 if __name__ == '__main__':

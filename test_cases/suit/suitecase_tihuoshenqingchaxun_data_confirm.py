@@ -1,26 +1,23 @@
-from HTMLTestRunner import HTMLTestRunner
-from datetime import datetime
 import unittest
-from test_cases.tihuoguanli.test_tihuoshenqingchaxun_data_confirm import Test_Tihuoshenqingchaxun_Data
-
+from datetime import datetime
+from HTMLTestRunner import HTMLTestRunner
+from config import report_every,report_name,cases_path
 
 def run_tihuoshenqingchaxun_data():
-    load_1 = unittest.TestLoader().loadTestsFromTestCase(Test_Tihuoshenqingchaxun_Data)
+    path = cases_path.get('tihuoshenqingchaxun_data')
+    dis = unittest.TestLoader()
+    cases = dis.discover(path, pattern='*.py')
 
-    suite = unittest.TestSuite()
 
-    suite.addTest(load_1)
 
     now = datetime.now()
     report_file = open(
-        r'F:\autotest\peihuo\file\report\tihuoshenqingchaxun_data\report{}.html'.format(
-            now.strftime('%Y%m%d%H%M%S')), 'w', encoding='utf8')
+        report_every.format(report_name.get('tihuoshenqingchaxun_data')), 'w', encoding='utf8')
     runner_tihuoshenqing_data = HTMLTestRunner(
         stream=report_file,
-        title='提货申请查询界面数据验证',
+        title=report_name.get('tihuoshenqingchaxun_data'),
         description='配货项目测试报告')
-
-    runner_tihuoshenqing_data.run(suite)
+    runner_tihuoshenqing_data.run(cases)
 
 
 if __name__ == '__main__':

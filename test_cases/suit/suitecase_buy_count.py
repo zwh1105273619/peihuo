@@ -1,26 +1,28 @@
-from HTMLTestRunner import HTMLTestRunner
-from datetime import datetime
 import unittest
-from test_cases.buy_count.test_buy_count import Test_Buy_Count
+from datetime import datetime
+
+from HTMLTestRunner import HTMLTestRunner
+from config import report_every,report_name,cases_path
 
 
 def run_buy_count():
-    load_1 = unittest.TestLoader().loadTestsFromTestCase(Test_Buy_Count)
+    path = cases_path.get('buy_count')
 
-    suite = unittest.TestSuite()
+    dis = unittest.TestLoader()
 
-    suite.addTest(load_1)
+    cases = dis.discover(path, pattern='*.py')
 
     now = datetime.now()
     report_file = open(
-        r'F:\autotest\peihuo\file\report\buy_count\report{}.html'.format(
-            now.strftime('%Y%m%d%H%M%S')), 'w', encoding='utf8')
+        report_every.format(report_name.get('buy_count')), 'w', encoding='utf8')
     runner_buy_count = HTMLTestRunner(
         stream=report_file,
-        title='应邀数量验证',
+        title=report_name.get('buy_count'),
         description='配货项目测试报告')
 
-    runner_buy_count.run(suite)
+
+
+    runner_buy_count.run(cases)
 
 
 if __name__ == '__main__':
